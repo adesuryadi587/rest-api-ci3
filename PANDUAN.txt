@@ -1,0 +1,10 @@
+Cara penggunaan
+
+import tabel keys dan limits ke database server / db restapi.sql
+
+Setting Base url di config
+Setting Database
+
+Ubah query pada model mahasiswa
+
+sesuaikan dengan database server
